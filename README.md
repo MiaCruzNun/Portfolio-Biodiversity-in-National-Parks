@@ -8,6 +8,6 @@
   - Las razones de esto incluyen el cambio climático, la contaminación, la destrucción del hábitat, la sobreexplotación de los recursos naturales, la introducción de especies invasoras y el aumento de la agricultura intensiva.
  
  
-El objetivo de este proyecto es analizar los datos de biodiversidad del Servicio de Parques Nacionales, particularmente alrededor de varias especies observadas en diferentes ubicaciones de parques nacionales.
+El objetivo de este proyecto es analizar los datos de biodiversidad del Servicio de Parques Nacionales de E.U,A. .
 
-Este proyecto abarcará, analizará, preparará, graficará datos y explicará los hallazgos del análisis.
+Este proyecto preparará, graficará datos, analizará y explicará los hallazgos del análisis.
